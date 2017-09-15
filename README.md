@@ -1,5 +1,5 @@
 ---
-summary: 'Sketch out the page(s) for your portfolio website before creating them in code.'
+summary: 'Sketch out the pages for your portfolio website before creating them in code.'
 time: '1 hour'
 deliverables: 'A bunch of paper sketches'
 ---
@@ -28,6 +28,7 @@ deliverables: 'A bunch of paper sketches'
 - Storyboards
 - Flow diagrams
 - Personas
+- User/client research
 
 ---
 
