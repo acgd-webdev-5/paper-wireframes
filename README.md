@@ -34,4 +34,4 @@ deliverables: 'A bunch of paper sketches'
 
 ## Hand in
 
-Show the teacher your sketches and plans during next class.
+Show the teacher your sketches and plans during class.
